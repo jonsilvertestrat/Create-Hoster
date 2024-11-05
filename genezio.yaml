@@ -1,0 +1,10 @@
+frontend:
+    path: ./
+    publish: ""
+    scripts:
+        build: ""
+        deploy: ""
+    subdomain: Create-Hoster
+name: Create-Hoster
+region: us-east-1
+yamlVersion: 2
